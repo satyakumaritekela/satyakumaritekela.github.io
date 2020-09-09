@@ -1,0 +1,14 @@
+{
+  "name": "myfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Satya Kumar Itekela",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.14.0"
+  }
+}
